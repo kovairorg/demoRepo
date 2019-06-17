@@ -12,6 +12,7 @@ public class HTML_Template {
 		if( i == 0) {
 			System.out.println("HTML_Template");
 			System.out.println("HTML_Template : Italic String");
+			System.out.println("HTML_Template : Underline, select, UL & OL");
 		}
 	}
 
