@@ -15,7 +15,7 @@ public class HTML_Template {
 			System.out.println("HTML_Template : Underline, select, UL & OL");
 			System.out.println("HTML_Template : Textbox, Button");
 			System.out.println("HTML_Template : Textbox, Button value Special Characters");
-
+			System.out.println("HTML_Template : Textbox, Blank");
 		}
 	}
 
