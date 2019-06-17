@@ -18,7 +18,7 @@ public class HTML_Template {
 			System.out.println("HTML_Template : Textbox, Blank");
 			System.out.println("HTML_Template : Textbox, Special Chars");
 			System.out.println("HTML_Template : Radio & Checkbox");
-			System.out.println("HTML_Template : Blank Commit Msg");
+			System.out.println("HTML_Template : Blank Commit Msg ");
 		}
 	}
 
