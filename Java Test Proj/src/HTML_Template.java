@@ -11,6 +11,7 @@ public class HTML_Template {
 		int i  = 0;
 		if( i == 0) {
 			System.out.println("HTML_Template");
+			System.out.println("HTML_Template : Italic String");
 		}
 	}
 
