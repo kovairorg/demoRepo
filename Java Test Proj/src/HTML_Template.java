@@ -20,6 +20,7 @@ public class HTML_Template {
 			System.out.println("HTML_Template : Radio & Checkbox");
 			System.out.println("HTML_Template : Blank Commit Msg ");
 			System.out.println("HTML_Template : Image Check New");
+			System.out.println("HTML_Template : Kovair To Jira");
 		}
 	}
 
