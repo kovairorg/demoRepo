@@ -21,6 +21,7 @@ public class HTML_Template {
 			System.out.println("HTML_Template : Blank Commit Msg ");
 			System.out.println("HTML_Template : Image Check New");
 			System.out.println("HTML_Template : Kovair To Jira");
+			System.out.println("HTML_Template : Kovair To Jira at 11.07AM");
 		}
 	}
 
